@@ -6,4 +6,4 @@
 - 🌐 World News
 - 🌱 Climate
 
-🛠️ Built with **semantic HTML5** to provide a structured, accessible, and easy-to-navigate reading experience.
+🛠️ Built with **semantic HTML5** to provide a structured, accessible, and easy-to-navigate reading experience. (**Thai language**)
